@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_68ed99413e20b24f253d68b0f4ba87fbc2a17258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_a4ccf340f89e2bac5f11edf13b66b973130812bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_bb4ad7cc6ff0ffcb43fbb01605fbf11454f41020/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_8d340e05b42f4acd0e09aa53fe163654d01a7886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_efe7df4971d23609d4168134efb01cc53c0315a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.2.0_d9439bf15a87c295ede8aff1385fc31d896c10be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_0f68a52a19dbdcbcc244ff5033e2df07493789b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_049075ce26d36a62d09245793a35287c9a6970ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.2.0_703f24c69a89989d265b029157b4c2bb9579ff8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0ed8d4c69a63fa6f697c1ed6221b526637d96e4">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_195f86f2b484e78b08766e3adb98275ecef1011f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2181c00a0d0a595b6c0679f1411cc91af6b042bb">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-1.0.0_8d294001d7837dd72f0b75b0a0ce443a99f0dacf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_cd585e0d38852df4b109f6a95bc98bb382a2fc6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-appcompat-v7/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="989b8d7da74ead03b6ac2c9fbaeeb8ef768a2e0d">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-appcompat-v7-1.0.0_f6a7f6a05eb83e25f84c853596587d3903c1fa2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_817d32110e6871d872b1609201e325c2aebb9164/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_6d0dc5637b3023b5e17b3d24353bac130b1d1748/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.3/7fe1a94c1aeb958acc876fe616922cc191f3222c/rxjava-1.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fe1a94c1aeb958acc876fe616922cc191f3222c">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.2.3_886544776d5b00361ebed91d63a005fc60d7becd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_2d359c86b1eb9e3f743ad3f41a31a1ee1496a7f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.4/6b290a792253035c9fcc912d6a4d7efb3e850211/dagger-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b290a792253035c9fcc912d6a4d7efb3e850211">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.4_74df3b5d8e39aff01dbd877e0764b18508ab568e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_2d5dae1518dc7d3fe06bad3cfca0352f3b7a4d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-design/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fc90e5dcc786a6ed505a610d084149584f1e96d">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-design-1.0.0_bab0de9205575403cd30061465c47e0cbe0536d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_63d3c8271a3eda090004c63ea4c2a3dc45c95744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_01b05b38f3301ff405492d1d4ef3188d857f75ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_01cdcbaa9cd1cc66691805feb9c7d44c5475dd52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_641947151c1c4828efa2f290c3ec720034643424/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.2.0/d80514b6f44f0c4c6234e2d67fea783a25e77275/adapter-rxjava-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d80514b6f44f0c4c6234e2d67fea783a25e77275">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.2.0_b8d2efc44d1ff18e91821d37181b97050b26038b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_f68876ed35f40902274559eb0d3a38eb1f9146f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_95be94dabcccbf24a97cafc8b31b81cdcdccc3cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.annotation/10.0-b28/30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba/javax.annotation-10.0-b28.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.annotation-10.0-b28_f243e9604754c2f7c34a9a3d760603c97b15f564/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_ced8b195da791a70cdc2326ab55ccd3dce4722d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91692440d5a82b2b69c9aa8333dd13bbf27fd8a0">
+        <dex dex="/Users/wangjianwei/Documents/Android_Demo_Test/ArchitectureOfMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f324a0476831f6c22d0c7847d527ac9ad2b1e2e4/classes.dex" />
+    </item>
+
+</items>
